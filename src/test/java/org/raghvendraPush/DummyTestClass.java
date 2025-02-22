@@ -8,5 +8,6 @@ public class DummyTestClass {
     
     public void Hari() {
     	System.out.println("Merging");
+    	System.out.println("Merging1");
     }
 }
