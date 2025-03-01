@@ -1,5 +1,6 @@
 package org.Bhavya;
 
+import org.BhavyaModelClass.E2EPageObjectModel;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.interactions.Actions;

@@ -1,4 +1,4 @@
-package org.Bhavya;
+package org.BhavyaModelClass;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
