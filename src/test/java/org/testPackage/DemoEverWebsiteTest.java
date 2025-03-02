@@ -30,7 +30,7 @@ public class DemoEverWebsiteTest {
         switch (browserName) {
             case "chrome":
                 chromeOptions = new ChromeOptions();
-                wd = new RemoteWebDriver(new URL("http://192.168.1.8:4444"),chromeOptions);
+                wd = new RemoteWebDriver(new URL("http://192.168.1.13:4444"),chromeOptions);
                 WebDriverManager.setDriver(wd);
                 break;
             case "firefox":
